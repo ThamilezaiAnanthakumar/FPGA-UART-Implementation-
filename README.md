@@ -58,6 +58,6 @@ The project was completed in four main phases:
 - ModelSim (for simulation and verification)
 
 ## 📁 Project Output
-<img src="assets/ouput" width="300">
+<img src="assets/output.jpg" width="300">
 
 
